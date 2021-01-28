@@ -24,7 +24,7 @@
     "@nuxtjs/axios": "^5.9.0",
     "@nuxtjs/bulma": "^1.2.6",
     "babel-loader": "^8.0.6",
-    "buefy": "^0.8.9",
+    "buefy": "^0.9.4",
     "feather-icons": "^4.25.0",
     "nuxt": "^2.11.0",
     "nuxt-buefy": "^0.3.20",
