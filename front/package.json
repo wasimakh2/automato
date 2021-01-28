@@ -27,7 +27,7 @@
     "buefy": "^0.8.9",
     "feather-icons": "^4.25.0",
     "nuxt": "^2.11.0",
-    "nuxt-buefy": "^0.3.20",
+    "nuxt-buefy": "^0.4.4",
     "typeface-inter": "^3.11.2",
     "typeface-libre-baskerville": "0.0.72",
     "vue-feather": "^1.0.0"
