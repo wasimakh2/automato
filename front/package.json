@@ -23,7 +23,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.9.0",
     "@nuxtjs/bulma": "^1.2.6",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.2.2",
     "buefy": "^0.8.9",
     "feather-icons": "^4.25.0",
     "nuxt": "^2.11.0",
