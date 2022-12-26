@@ -23,10 +23,10 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.9.0",
     "@nuxtjs/bulma": "^1.2.6",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.2.4",
     "buefy": "^0.8.9",
     "feather-icons": "^4.25.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.0",
     "nuxt-buefy": "^0.3.20",
     "typeface-inter": "^3.11.2",
     "typeface-libre-baskerville": "0.0.72",
