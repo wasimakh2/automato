@@ -21,7 +21,7 @@
     }
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.9.0",
+    "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/bulma": "^1.2.6",
     "babel-loader": "^8.0.6",
     "buefy": "^0.8.9",
